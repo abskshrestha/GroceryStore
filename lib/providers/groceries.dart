@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/groceries.dart';
 
 class Groceries with ChangeNotifier {
+  
   List<Grocery> _items = [
     Grocery(
       id: 'p1',

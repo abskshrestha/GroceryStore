@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import '../widgets/groceries_grid.dart';
-import '../widgets/grocery_Item.dart';
+import '../widgets/grocery_grid.dart';
+import '../widgets/grocery_item.dart';
 import '../models/groceries.dart';
 
 class GroceriesOverviewScreen extends StatelessWidget {
   // GroceriesOverviewScreen({Key? key}) : super(key: key);
-
 
 
   @override
